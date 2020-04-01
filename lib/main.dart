@@ -6,6 +6,7 @@ import 'package:scoped_model/scoped_model.dart';
 
 void main() => runApp(MyApp());
 
+
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
